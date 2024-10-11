@@ -80,3 +80,14 @@ p {
 a {
     color: inherit;
 }
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8rem; /* Small font size */
+    font-style: italic; /* Italics */
+    color: white;
+    padding: 1rem 0;
+}
